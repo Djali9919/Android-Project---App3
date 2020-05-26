@@ -1,0 +1,2 @@
+rootProject.name='RapidMath'
+include ':app'
